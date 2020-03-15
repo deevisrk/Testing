@@ -1,2 +1,3 @@
 This is updated in Branch Develop:wq
-this is replaced in Feature Branch
+this is replaced in Feature Branc
+this is for commit example.
